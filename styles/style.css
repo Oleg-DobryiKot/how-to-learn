@@ -112,17 +112,17 @@
   display: flex;
   width: 80%;
   /*border: 1px solid red;*/
-  margin: 100px auto; 
+  margin: 100px auto;
   justify-content: space-between;
 }
 
 .two-columns{
-  /*justify-content: space-between;*/ 
+  /*justify-content: space-between;*/
  }
 
 .two-columns__brief{
   width: 175px;
-  /*border: 1px solid red;*/  /*визуализация блока.*/ 
+  /*border: 1px solid red;*/  /*визуализация блока.*/
   margin: 0;
   line-height: 1.2;
   font-size: 18px;
@@ -206,7 +206,7 @@
   /*border: 1px dotted gray;*/
   line-height: 1.15;
   font-size: 24px;
-  font-weight: bold;  
+  font-weight: bold;
 }
 
 .flextable__box_text-paragraph{
@@ -279,7 +279,7 @@
    line-height: 51px;
    font-size: 36px;
    text-decoration: none;
-   color: #2f80ed;  
+   color: #2f80ed;
 }
 
 .kaufman{
@@ -317,7 +317,7 @@
 }
 
 .flextable__box_text-new-width{
-  width: 200px; 
+  width: 200px;
 }
 
 /* и элемента с модификатором вида ключ-значение */
