@@ -118,6 +118,8 @@
   font-size: 18px;
   font-style: normal;
   font-weight: normal;
+  text-decoration: none;
+  color: #2f80ed; 
 }
 
 .two-columns__main-text {
@@ -135,7 +137,7 @@
   font-style: normal;
 }
 
-.two-columns__paragraph:nth-of-type(2) {
+.two-columns__paragraph:nth-of-type(even) {
   /*border: 1px dotted red;*/
   margin: 30px auto;
 }
@@ -212,7 +214,7 @@
 
 .feynman {
   position: relative;
-  padding: 100px;
+  padding-top: 100px;
   background-color: #f2f2f2;
   min-height: 790px;
   width: 100%;
@@ -358,7 +360,6 @@
 
 .footer__author {
   color: white;
-  margin-block-end: 18px;
   line-height: 25px;
   font-size: 18px;
 }
