@@ -1,0 +1,12 @@
+@import url(../logo/_place_header/logo_place_header.css);
+
+.logo {
+  width: 183px;
+  height: 32px;
+  /*теоретически -- это не нужный код */
+  /*background-repeat: no-repeat;
+  background-size: 183px 32px;
+  display: flex;
+  align-self: flex-start;
+  z-index: 6;*/  
+}
