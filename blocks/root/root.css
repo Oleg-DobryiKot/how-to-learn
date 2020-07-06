@@ -111,3 +111,28 @@
   font-size: 18px;
   font-weight: normal;
 }
+
+.section-title_theme_dark {
+  /*border: 1px solid red;*/
+  margin-top: 90px;
+}
+
+.section_theme_dark-text-color {
+  color: white;
+}
+
+.table_bottom-margin {
+   margin: 0 auto 90px;
+}
+
+.table__text_theme_dark {
+  width: 200px;
+}
+
+/* и элемента с модификатором вида ключ-значение */
+.table__cell_theme_dark {
+  width: 200px;
+  color: white;
+  margin-top: 80px;
+  z-index: 70;
+}
