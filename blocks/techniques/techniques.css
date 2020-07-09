@@ -1,0 +1,8 @@
+.techniques {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  margin: 100px auto 0;
+  position: relative;
+  boder: 1px dotted red;
+}

@@ -1,0 +1,17 @@
+/*@import url("./_theme/section-title_theme_dark.css");*/
+
+.section-title {
+  font-size: 60px;
+  line-height: 69px;
+  font-weight: bold;
+  text-align: center;
+  width: 60%;
+  margin: auto;
+  z-index: 20;
+  /*border: 1px solid red;*/
+}
+
+.section-title_theme_dark {
+  /*border: 1px solid red;*/
+  margin-top: 90px;
+}

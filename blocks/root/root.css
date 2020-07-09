@@ -14,27 +14,6 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-.section-title {
-  font-size: 60px;
-  line-height: 69px;
-  font-weight: bold;
-  text-align: center;
-  width: 60%;
-  margin: auto;
-  /*border: 1px solid red;*/
-}
-
-.section-subtitle {
-  font-size: 24px;
-  line-height: 34px;
-  font-weight: normal;
-  text-align: center;
-  margin: auto;
-  margin-top: 20px;
-  width: 60%;
-  /*border: 1px dotted green;*/
-}
-
 .two-columns {
   display: flex;
   justify-content: space-between;
@@ -110,11 +89,6 @@
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-}
-
-.section-title_theme_dark {
-  /*border: 1px solid red;*/
-  margin-top: 90px;
 }
 
 .section_theme_dark-text-color {
