@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
 }
-  
+
 .page {
   min-width: 1100px;
   /* мы ещё не умеем делать мобильную версию сайта, */
@@ -14,99 +14,6 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-.two-columns {
-  display: flex;
-  justify-content: space-between;
-}
-  
-.two-columns__brief {
-  width: 175px;
-  /*border: 1px solid red;*/  /*визуализация блока.*/
-  margin: 0;
-  line-height: 1.2;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: normal;
-  text-decoration: none;
-  color: #2f80ed; 
-}
-  
-.two-columns__main-text {
-  min-width: 784px;
-  width: 80%;
-  /*border: 1px solid green;*/
-}
-
-.two-columns__paragraph {
-  /*border: 1px dotted red;*/
-  margin: 0;
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
-  font-style: normal;
-}
-
-.two-columns__paragraph:nth-of-type(even) {
-  /*border: 1px dotted red;*/
-  margin: 30px auto;
-}
-
-.two-columns__span-accent {
-  font-size: 24px;
-  line-height: 34px;
-  font-weight: bold;
-}
-
-.table {
-  /*border: 1px solid red;*/
-  display: flex;
-  margin: 0 auto 100px;
-  width: 1100px;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-.table__cell {
-  /*border: 1px dotted black;*/
-  width: 250px;
-  margin-top: 60px;
-}
-
-.table__heading {
-  margin: 0;
-  width: 250px;
-  /*border: 1px dotted gray;*/
-  line-height: 1.15;
-  font-size: 24px;
-  font-weight: bold;
-}
-
-.table__text {
-  margin-top: 20px;
-  margin-bottom: 0;
-  width: 250px;
-  /*border: 1px dotted gray;*/
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: normal;
-}
-
 .section_theme_dark-text-color {
   color: white;
-}
-
-.table_bottom-margin {
-   margin: 0 auto 90px;
-}
-
-.table__text_theme_dark {
-  width: 200px;
-}
-
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-top: 80px;
-  z-index: 70;
 }

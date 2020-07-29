@@ -1,4 +1,4 @@
-/*@import url("./_theme/section-title_theme_dark.css");*/
+@import url("./_theme_dark/section-title_theme_dark.css");
 
 .section-title {
   font-size: 60px;
@@ -11,7 +11,8 @@
   /*border: 1px solid red;*/
 }
 
+/*
 .section-title_theme_dark {
   /*border: 1px solid red;*/
-  margin-top: 90px;
-}
+/*margin-top: 90px;
+}*/
