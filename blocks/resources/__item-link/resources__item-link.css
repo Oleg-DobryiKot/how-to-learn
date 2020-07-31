@@ -1,0 +1,9 @@
+.resources__item-link {
+  margin: 0;
+  display: flex;
+  transition: 1s;
+}
+
+.resources__item-link:hover { 
+  box-shadow: 0 0 6px darkgrey;   
+}
