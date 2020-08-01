@@ -2,13 +2,10 @@
 .header__title {
   align-items: center;
   width: 730px;
-  z-index: 10;
+  z-index: 130;
   margin: auto 64px;
   line-height: 96px;
   font-size: 102px;
- /*резинка для сжатия окна. источник:
-  https://css-tricks.com/viewport-sized-typography/*/
-  font-size: 7.3vw;
   font-weight: 700;
   font-family: Arial, Helvetica, sans-serif;
 }  
