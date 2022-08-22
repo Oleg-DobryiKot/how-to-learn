@@ -1,7 +1,4 @@
 .logo_place_footer {
-  position: initial;
-  /*border: 2px dotted violet;*/
   background-image: url("../../../images/logo_place_footer.svg");
-  width: 183px;
   height: 35px;
 }

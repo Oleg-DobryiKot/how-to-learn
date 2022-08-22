@@ -3,10 +3,4 @@
 
 .logo {
   width: 183px;
-  background-repeat: no-repeat;
-  /*теоретически -- это не нужный код */
-  /*background-size: 183px 32px;
-  display: flex;
-  align-self: flex-start;
-  z-index: 6;*/  
 }

@@ -6,10 +6,11 @@
 @import url("./_theme/table__text_theme_dark.css");
 
 .table {
-  /*border: 1px solid red;*/
   display: flex;
-  margin: 0 auto 100px;
-  width: 1100px;
+  margin: 0 auto;
   flex-wrap: wrap;
+  max-width: 1100px;
   justify-content: space-between;
+  list-style: none;
+  padding-left: 0;
 }

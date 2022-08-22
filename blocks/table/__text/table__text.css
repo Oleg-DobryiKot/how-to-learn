@@ -1,10 +1,8 @@
 .table__text {
-  margin-top: 20px;
-  margin-bottom: 0;
+  margin: 20px 0 0;
   width: 250px;
-  /*border: 1px dotted gray;*/
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  z-index: 50;
+  z-index: 5;
 }

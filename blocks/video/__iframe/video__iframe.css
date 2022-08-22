@@ -1,15 +1,12 @@
 .video__iframe {
-  /*display: flex;*/
-  /*flex-direction: column;*/
-  /*border: 1px dotted black;*/
   margin: 0;
-  z-index: 10;
+  z-index: 6;
   width: 515px;
   height: 316px;
-  border: 0px;
-  /*margin-top: 50px;*/
+  border: none;
 }
-  
-.video__iframe:nth-of-type(even) {
+/* можно не испорльзовать, если раздвинуть фреймы
+ как space-between в родителе и задать ширрину контейнера */
+/* .video__iframe:nth-of-type(even) {
   margin-left: 20px;
-}
+} */

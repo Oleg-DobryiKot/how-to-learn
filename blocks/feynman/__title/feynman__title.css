@@ -3,8 +3,7 @@
   line-height: 1.15;
   font-weight: bold;
   text-align: center;
-  width: 648px;
+  max-width: 648px;
   margin: 0 auto 0;  /*убрал 100 сверху т.к. добавил паддинг Фейнману*/
   z-index: 5;
-  /*border: 1px solid red;*/
 }

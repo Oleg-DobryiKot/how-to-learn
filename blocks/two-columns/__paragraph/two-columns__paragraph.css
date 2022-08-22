@@ -1,5 +1,4 @@
 .two-columns__paragraph {
-  /*border: 1px dotted red;*/
   margin: 0;
   line-height: 34px;
   font-size: 24px;
@@ -8,6 +7,5 @@
 }
 
 .two-columns__paragraph:nth-of-type(even) {
-  /*border: 1px dotted red;*/
   margin: 30px auto;
 }

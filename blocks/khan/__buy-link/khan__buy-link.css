@@ -7,13 +7,3 @@
   color: #2f80ed;
   align-self: self-start;
 }
-
-.khan__buy-link:hover {
-  margin-left: 10px;
-  line-height: 42px;
-  font-size: 30px;
-  font-weight: bold;
-  text-decoration: underline;
-  color: #6e4c0d;
-  ;
-}

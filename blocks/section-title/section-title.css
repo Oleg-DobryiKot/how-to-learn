@@ -7,12 +7,5 @@
   text-align: center;
   width: 60%;
   margin: auto;
-  z-index: 20;
-  /*border: 1px solid red;*/
+  z-index: 5;
 }
-
-/*
-.section-title_theme_dark {
-  /*border: 1px solid red;*/
-/*margin-top: 90px;
-}*/

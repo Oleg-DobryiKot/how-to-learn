@@ -7,15 +7,3 @@
   margin: auto;
   text-decoration: none;
 }
-
-.footer__column-link:hover {
-  display: flex;
-  color: black;
-  background-color: white;
-  /*box-shadow: 5 5 10px red;*/
-  line-height: 30px;
-  font-size: 18px;
-  font-weight: normal;
-  margin: auto;
-  text-decoration: none;
-}

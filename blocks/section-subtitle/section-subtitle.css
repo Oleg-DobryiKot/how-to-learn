@@ -3,9 +3,7 @@
   line-height: 34px;
   font-weight: normal;
   text-align: center;
-  margin: auto;
-  margin-top: 20px;
+  margin: 20px auto 0;
   width: 60%;
-  z-index: 20;
-  /*border: 1px dotted green;*/
+  z-index: 5;
 }

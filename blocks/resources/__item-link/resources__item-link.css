@@ -4,6 +4,6 @@
   transition: 1s;
 }
 
-.resources__item-link:hover { 
-  box-shadow: 0 0 6px darkgrey;   
-}
+/* .resources__item-link:hover {
+  box-shadow: 0 0 6px darkgrey;
+} */
